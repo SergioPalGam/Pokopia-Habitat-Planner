@@ -26,19 +26,19 @@ Ko-fi: https://ko-fi.com/sergiopalgam
 ## Screenshots
 
 ### Habitat Designer
-![Habitat Designer](Screenshot/Screenshot 2026-04-26 114043.png)
+![Habitat Designer](Screenshot/Screenshot%202026-04-26%20114043.png)
 
 ### Pokemon
-![Pokemon tab](Screenshots/Screenshot 2026-04-26 114111.png)
+![Pokemon tab](Screenshots/Screenshot%202026-04-26%20114111.png)
 
 ### Items
-![Items tab](Screenshots/Screenshot 2026-04-26 114146.png)
+![Items tab](Screenshots/Screenshot%202026-04-26%20114146.png)
 
 ### Recommender
-![Recommender tab](Screenshots/Screenshot 2026-04-26 114235.png)
+![Recommender tab](Screenshots/Screenshot%202026-04-26%20114235.png)
 
 ### Material
-![Material tab](Screenshots/Screenshot 2026-04-26 114335.png)
+![Material tab](Screenshots/Screenshot%202026-04-26%20114335.png)
 
 ## Disclaimer
 Pokopia Habitat Planner is not affiliated with Nintendo, The Pokémon Company, Game Freak, Creatures Inc., Serebii, or any official Pokémon-related entity.
