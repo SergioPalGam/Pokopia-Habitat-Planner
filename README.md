@@ -132,6 +132,11 @@ It explains:
 
 More settings may be added in later versions.
 
+###To do list and Improvements
+1. Fix mouse wheel across scrollable decoration/object areas
+2. Dark Mode
+3. Add hotkeys
+
 ## Disclaimer
 Pokopia Habitat Planner is not affiliated with Nintendo, The Pokémon Company, Game Freak, Creatures Inc., Serebii, or any official Pokémon-related entity.
 Pokémon, Pokémon Pokopia, character names, item names, and related assets are trademarks or copyrighted material of their respective owners.
