@@ -23,6 +23,23 @@ This is a beta version. Data is based on publicly available Serebii information 
 Optional tips are appreciated if this tool saves you time:
 Ko-fi: https://ko-fi.com/sergiopalgam
 
+## Screenshots
+
+### Habitat Designer
+![Habitat Designer](Screenshots/Screenshot 2026-04-26 114043.png)
+
+### Pokemon
+![Pokemon tab](Screenshots/Screenshot 2026-04-26 114111.png)
+
+### Items
+![Items tab](Screenshots/Screenshot 2026-04-26 114146.png)
+
+### Recommender
+![Recommender tab](Screenshots/Screenshot 2026-04-26 114235.png)
+
+### Material
+![Material tab](Screenshots/Screenshot 2026-04-26 114335.png)
+
 ## Disclaimer
 Pokopia Habitat Planner is not affiliated with Nintendo, The Pokémon Company, Game Freak, Creatures Inc., Serebii, or any official Pokémon-related entity.
 Pokémon, Pokémon Pokopia, character names, item names, and related assets are trademarks or copyrighted material of their respective owners.
