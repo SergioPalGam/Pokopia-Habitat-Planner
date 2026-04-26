@@ -20,6 +20,9 @@ Unzip the folder and run:
 ## Beta notice
 This is a beta version. Data is based on publicly available Serebii information and may be updated as the game information changes.
 
+Optional tips are appreciated if this tool saves you time:
+Ko-fi: https://ko-fi.com/sergiopalgam
+
 ## Disclaimer
 Pokopia Habitat Planner is not affiliated with Nintendo, The Pokémon Company, Game Freak, Creatures Inc., Serebii, or any official Pokémon-related entity.
 Pokémon, Pokémon Pokopia, character names, item names, and related assets are trademarks or copyrighted material of their respective owners.
