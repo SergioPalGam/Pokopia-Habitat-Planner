@@ -26,7 +26,7 @@ Ko-fi: https://ko-fi.com/sergiopalgam
 ## Screenshots
 
 ### Habitat Designer
-![Habitat Designer](Screenshots/Screenshot 2026-04-26 114043.png)
+![Habitat Designer](Screenshot/Screenshot 2026-04-26 114043.png)
 
 ### Pokemon
 ![Pokemon tab](Screenshots/Screenshot 2026-04-26 114111.png)
